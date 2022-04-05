@@ -1,5 +1,5 @@
 mkdir build
 
-cmake .. -G<Generator>
+cmake .. -G"Generator"
   
 cmake --build .
